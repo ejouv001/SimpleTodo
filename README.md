@@ -28,6 +28,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/a/MLjtNeJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://imgur.com/a/MLjtNeJ
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
